@@ -11,5 +11,6 @@ export const GlobalStyle = createGlobalStyle`
     body {
         font-family: 'Be Vietnam Pro', sans-serif;
         min-height: 100vh;
+        font-size: 16px;
     }
 `;
